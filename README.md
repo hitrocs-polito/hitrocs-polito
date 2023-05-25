@@ -35,8 +35,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/hitrocs"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hitrocs" /></a></p><br><br>
 
-<h3 align="center">GitHub stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hitrocs-polito&show_icons=true&locale=en&layout=compact" alt="hitrocs-polito" /></p>
+<h3 align="left">GitHub stats:</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hitrocs-polito&show_icons=true&locale=en&layout=compact" alt="hitrocs-polito" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hitrocs-polito&show_icons=true&locale=en" alt="hitrocs-polito" /></p>
 
