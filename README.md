@@ -38,4 +38,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hitrocs-polito&show_icons=true&locale=en" alt="hitrocs-polito" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hitrocs-polito&" alt="hitrocs-polito" /></p>
+<p><img align="center" style="background-color:#1a1b27; color:#38bdae" src="https://github-readme-streak-stats.herokuapp.com/?user=hitrocs-polito&" alt="hitrocs-polito" /></p>
