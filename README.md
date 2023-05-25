@@ -39,6 +39,6 @@
 <h3 align="left">GitHub stats:</h3>
 <p style="background-color:#1a1b27;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hitrocs-polito&show_icons=true&locale=en&layout=compact" alt="hitrocs-polito" /></p>
 
-<p style="background-color:#1a1b27;">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=hitrocs-polito&show_icons=true&locale=en" alt="hitrocs-polito" /></p>
+<p style="background-color:black;">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=hitrocs-polito&show_icons=true&locale=en" alt="hitrocs-polito" /></p>
 
-<p style="background-color:#1a1b27;"><img align="left" style="background-color:#1a1b27; color:#38bdae" src="https://github-readme-streak-stats.herokuapp.com/?user=hitrocs-polito&" alt="hitrocs-polito" /></p>
+<p style="background-color:black;"><img align="left" style="background-color:#1a1b27; color:#38bdae" src="https://github-readme-streak-stats.herokuapp.com/?user=hitrocs-polito&" alt="hitrocs-polito" /></p>
