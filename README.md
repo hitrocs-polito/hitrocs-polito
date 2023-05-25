@@ -1,6 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Abdulaziz</h1>
+
 <h3 align="center">A passionate full-stack developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -35,7 +34,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/hitrocs"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hitrocs" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hitrocs-polito&show_icons=true&locale=en&layout=compact" alt="hitrocs-polito" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hitrocs-polito&show_icons=true&locale=en&layout=compact" alt="hitrocs-polito" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hitrocs-polito&show_icons=true&locale=en" alt="hitrocs-polito" /></p>
 
