@@ -27,6 +27,7 @@
 <a href="https://linkedin.com/in/hitrocs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hitrocs" height="30" width="40" /></a>
 <a href="https://fb.com/hitrocs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hitrocs" height="30" width="40" /></a>
 </p>
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 
 <h3 align="left">Languages and Tools:</h3>
