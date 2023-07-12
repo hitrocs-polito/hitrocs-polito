@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [hitrocs.uz](hitrocs.uz)
+- 👨‍💻 All of my projects are available at [hitrocs.uz](hitrocs.uz)(in process...)
 
 - 📝 I regularly write articles on [https//t.me/abdulazizmuminov](https//t.me/abdulazizmuminov)
 
